@@ -72,6 +72,11 @@ A media query is included to adjust styles for screens with a width of 1000px or
 ## Screenshots
 Here are some screenshots of the project:
 
+**Day View**
+![Screenshot of the project](images/day.jpeg)
+
+**Night View**
+![Screenshot of the project](images/night.jpeg)
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
