@@ -13,7 +13,7 @@ This project showcases a CSS-based visual representation of a city skyline with 
 - [License](#license)
 
 ## Demo
-A live demo of the project can be viewed [here](#).
+A live demo of the project can be viewed [here](https://madokscharles.github.io/skyline-css-variables/).
 
 ## Features
 - **Responsive Design:** The layout adapts for screens with a width of 1000px or less.
